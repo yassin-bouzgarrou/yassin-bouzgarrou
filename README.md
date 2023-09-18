@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassin-bouzgarrou&label=Profile%20views&color=0e75b6&style=flat" alt="yassin-bouzgarrou" /> </p>
 
@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **project booking**
 
-- 🌱 I’m currently learning **nest.js docker**
+- 🌱 I’m currently learning **nest.js docker prisma**
 
 - 👨‍💻my Portfolio [https://my-portfolio-shts.vercel.app/](https://my-portfolio-shts.vercel.app/)
 
-- 💬 Ask me about **react , vue , nodeJs ,express**
+- 💬 Ask me about **Full stack javascript**
 
 - 📫 How to reach me **yassinbez111@gmailcom**
 
-- ⚡Fact about you **I think I am addicted to coffee**
+- ⚡Fact about me **I think I am addicted to coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
