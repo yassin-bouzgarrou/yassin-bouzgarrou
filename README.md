@@ -114,15 +114,15 @@ and communication skills. .
 
 <div class="stats" align="center">
 
-![Tarek Issaoui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarek-Issaoui&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Tarek Issaoui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassin-bouzgarrou&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tarek-Issaoui&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=yassin-bouzgarrou&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-Issaoui&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-bouzgarrou&show_icons=true&theme=algolia&border_radius=20)
 
 <!-- compact programming languages layout -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-Issaoui&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassin-bouzgarrou&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
 ### ✍️ Random Dev Quote
 
@@ -131,7 +131,7 @@ and communication skills. .
 </div>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Tarek-Issaoui&label=Profile%20Views&color=12&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=yassin-bouzgarrou&label=Profile%20Views&color=12&pretty=false" />
 </a>
 message.txt
 9 Ko
