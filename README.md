@@ -17,6 +17,7 @@ and communication skills. .
 </div>
 </p>    
 <br>
+![LeetCode Stats](https://leetcode.card.workers.dev/xbez123?theme=dark&font=baloo&extension=null)
 <!-- Languages and Tools -->
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
